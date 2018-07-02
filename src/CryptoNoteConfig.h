@@ -76,9 +76,6 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 const char     CRYPTONOTE_NAME[]                             = "dacyanus";
 <<<<<<< HEAD
 const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ec85afd1b101029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101289090d39c764ee12e2c4a17eed260491da97c76da27df5fab3a3238ebc764d2";
-=======
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ec85afd1b101029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210102dc1c4065431bf68ca83a2c657c3f38966452f68dcf507073e6567f48bf63ef";
->>>>>>> c3601c680e8ed38f06dc2970af5fb3d4b3b7d9ac
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
